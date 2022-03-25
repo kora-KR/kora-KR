@@ -17,13 +17,13 @@
 | ------------- | ------------- |
 
 ### 个人信息
-1. [korainsBlog](https://kora-kr.github.io/about/)： vuepres开源二次开发(vue3.0)
+1. [blog-kora](https://kora-kr.github.io/about/)： vuepres开源二次开发(vue3.0)
 2. [inx-kora](https://www.npmjs.com/~inx_kora)： 开源脚手架，目前支持uniapp与react
-3. [korainsResume](http://koras.gitee.io/korains_resume)： marked.js + impress.js双模板(vue2.0)
+3. [resume-kora](http://koras.gitee.io/korains_resume)： marked.js + impress.js双模板(vue2.0)
 
 ### 技术开源
 1. [inx-shell](https://www.npmjs.com/package/inx-shell):  nodejs 脚手架资源管理
-2. [drag](http://test.hhxinfo.com/drag/#/):  uniapp 拖拽代码生成一体化
+2. [inx-drag](http://test.hhxinfo.com/drag/#/):  uniapp 拖拽代码生成一体化
 
 ### 传送门
 [个性化主页传送门](https://github.com/anuraghazra/github-readme-stats)
